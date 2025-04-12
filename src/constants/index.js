@@ -11,7 +11,7 @@ export const EXPERIENCES = [
     year: "March 2022 - December 2022",
     role: "Frontend Developer",
     company: "PT Astra Otoparts Tbk Divisi Nusametal",
-    description: `Designed and developed user interfaces for web applications using Bootstrap and Sass. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
+    description: "Designed and developed user interfaces for web applications using Bootstrap and Sass. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.",
     technologies: ["HTML", "Bootstrap", "CSS", "Node.js", "mySQL", "Sass"],
   },
   {
@@ -45,7 +45,7 @@ export const ORGANIZATION = [
     role: "Chairman",
     year: "2022-2023",
     description:
-      "Creating a real-time daily production report and automatic counting for production from machining line.",
+      "Represent and preside over the Student Creativity and Arts Forum at campus events and meetings. Responsible, supervise, and develop the running of annual program “Gebyar Seni” also any other daily agenda.",
   },
 ];
 
