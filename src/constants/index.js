@@ -35,7 +35,7 @@ export const PROJECTS = [
     title: "Music App",
     image: projectmusic,
     description:  "Creating a real-time search engine for music base on music all over the world.",
-    technologies: ["React.js", "Tailwind.css", "Vite", "Node.js", "MySQL", "Fetch API", "test"]
+    technologies: ["React.js", "Tailwind.css", "Vite", "Node.js", "MySQL", "Fetch API"]
   },
 ];
 
