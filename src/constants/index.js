@@ -19,7 +19,7 @@ export const EXPERIENCES = [
     role: "Junior ERP Consultant",
     company: "PT Turboly Teknologi Indonesia",
     description: "Provide training sesion to end-users on how to use the ERP system effectively. Offer support to resolve any issues that arise",
-    technologies: ["Excel", "Words", "Notion", "Jira", "test", "test1", "test2", "test3", "test4"]
+    technologies: ["Excel", "Words", "Notion", "Jira", "test", "test1", "test2", "test3", "test4", "test5"]
   },
 ];
 
