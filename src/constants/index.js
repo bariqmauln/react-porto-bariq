@@ -31,12 +31,6 @@ export const PROJECTS = [
       "Creating a real-time daily production report and automatic counting for production from machining line.",
     technologies: ["HTML", "Bootstrap", "CSS", "Node.js", "MySQL", "SASS"],
   },
-  {
-    title: "Music App",
-    image: projectmusic,
-    description:  "Creating a real-time search engine for music base on music all over the world.",
-    technologies: ["React.js", "Tailwind.css", "Vite", "Node.js", "MySQL", "Fetch API"]
-  },
 ];
 
 export const ORGANIZATION = [
