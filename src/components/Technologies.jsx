@@ -56,7 +56,7 @@ const Technologies = () => {
         initial="initial"
         animate="animate"
         className="rounded-2xl border-4 border-neutral-800 p-4">
-          <FaSass className="text-7xl text-blue-400" />
+          <FaSass className="text-7xl text-pink-500" />
         </motion.div>
       </motion.div>
     </motion.div>
