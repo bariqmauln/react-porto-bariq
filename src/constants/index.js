@@ -44,7 +44,7 @@ export const ORGANIZATION = [
 ];
 
 export const CONTACT = {
-  address: "Pondok Gede, Bekasi ",
-  phoneNo: "+62 81292201785 ",
+  address: "Pondok Gede, Bekasi",
+  phoneNo: "+62 81292201785",
   email: "bariq.mauln@gmail.com",
 };
