@@ -7,16 +7,18 @@ export const ABOUT_TEXT = `I am an aspiring front-end developer passionate about
 export const EXPERIENCES = [
   
   {
-    year: "March 2022 - December 2022",
+    startDate: "March 2022",
+    endDate: "December 2022",
     role: "Frontend Developer",
     company: "PT Astra Otoparts Tbk Divisi Nusametal",
     description: "Designed and developed user interfaces for web applications using Bootstrap and Sass. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.",
     technologies: ["HTML", "Bootstrap", "CSS", "Node.js", "mySQL", "Sass"],
   },
   {
-    year: "October 2024 - Now",
-    role: "Junior ERP Consultant",
-    company: "PT Turboly Teknologi Indonesia",
+    startDate: "October 2024",
+    endDate: null, //Until Now
+    role: "Senior ERP Consultant",
+    company2: "PT Turboly Teknologi Indonesia",
     description: "Provide training sesion to end-users on how to use the ERP system effectively. Offer support to resolve any issues that arise",
     technologies: ["Excel", "Words", "Notion", "Jira"]
   },
@@ -38,7 +40,7 @@ export const ORGANIZATION = [
     role: "Chairman",
     year: "2022-2023",
     description:
-      "Represent and preside over the Student Creativity and Arts Forum at campus events and meetings. Responsible, supervise, and develop the running of annual program “Gebyar Seni” also any other daily agenda.",
+      "Represent and preside over the Student Creativity and Arts Forum at campus events and meetings. Responsible, supervise, and develop the running of annual program “Gebyar Seni” also any other daily agenda. test",
   },
 ];
 

@@ -1,5 +1,6 @@
 import { EXPERIENCES } from "../constants"
 import { motion } from "framer-motion"
+import { formatPeriod, getDuration } from "../constants/dateUtils"
 
 const Experience = () => {
   return (
@@ -19,7 +20,10 @@ const Experience = () => {
               transition={{ duration: 1 }}
               className="w-full lg:w-1/4">
                 <p className="mb-2 text-sm text-neutral-400">
-                  {experience.year}
+                  {formatPeriod(experience.startDate, experience.endDate)}
+                  <span className="ml-2 font-medium text-neutral-500">
+                  · {getDuration(experience.startDate, experience.endDate)}
+                  </span>
                 </p>
               </motion.div>
               <motion.div 
@@ -31,6 +35,9 @@ const Experience = () => {
                   {experience.role} -{" "}
                   <span className="text-sm text-green-100">
                     {experience.company}
+                  </span>
+                  <span className="text-sm text-blue-300">
+                    {experience.company2}
                   </span>
                 </h6>
                 <p className="mb-4 text-neutral-400">{experience.description}</p>
