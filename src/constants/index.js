@@ -40,7 +40,7 @@ export const ORGANIZATION = [
     role: "Chairman",
     year: "2022-2023",
     description:
-      "Represent and preside over the Student Creativity and Arts Forum at campus events and meetings. Responsible, supervise, and develop the running of annual program “Gebyar Seni” also any other daily agenda.",
+      "Represent and preside over the Student Creativity and Arts Forum at campus events and meetings. Responsible, supervise, and develop the running of annual program “Gebyar Seni” also any other daily agenda. test",
   },
 ];
 
