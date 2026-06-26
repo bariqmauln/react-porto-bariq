@@ -17,7 +17,7 @@ export const EXPERIENCES = [
   {
     startDate: "October 2024",
     endDate: null, //Until Now
-    role: "Junior ERP Consultant",
+    role: "Senior ERP Consultant",
     company2: "PT Turboly Teknologi Indonesia",
     description: "Provide training sesion to end-users on how to use the ERP system effectively. Offer support to resolve any issues that arise",
     technologies: ["Excel", "Words", "Notion", "Jira"]
