@@ -1,5 +1,4 @@
 import projectastra from "../assets/projects/project-astra.jpg";
-import projectmusic from "../assets/projects/logo.svg"
 
 export const HERO_CONTENT = `I am a passionate Front-End developer with a knack for crafting robust and scalable web applications. With 10 months of intership experience, I have honed my skills in front-end technologies like React and Tailwind.css, as well as back-end technologies like Node.js, and MySQL. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
@@ -44,7 +43,7 @@ export const ORGANIZATION = [
 ];
 
 export const CONTACT = {
-  address: "Pondok Gede, Bekasi",
-  phoneNo: "+62 81292201785",
+  address: "Pondok Gede, Bekasi ",
+  phoneNo: "+62 81292201785 ",
   email: "bariq.mauln@gmail.com",
 };
