@@ -15,15 +15,15 @@ const Contact = () => {
            whileInView={{ opacity: 1, x: 0}}
            initial={{ opacity: 1, x: 100}}
            transition={{ duration: 1 }}
-          className="my-4">{CONTACT.address}
+          className="my-4">{CONTACT.Address}
         </motion.p>
         <motion.p
            whileInView={{ opacity: 1, x: 0}}
            initial={{ opacity: 1, x: -100}}
            transition={{ duration: 1 }}
-          className="my-4">{CONTACT.phoneNo}
+          className="my-4">{CONTACT.PhoneNo}
         </motion.p>
-        <a href="#" className="border-b">{CONTACT.email}</a>
+        <a href="#" className="border-b">{CONTACT.Email}</a>
       </div>
     </div>
   )
